@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Mobile Design",
+        "author": "Bohr",
+        "year": "2009",
+        "genre": "Styling",
+        "read": true
+    },
+    {
+        "title": "Coding python",
+        "author": "John",
+        "year": "2007",
+        "genre": "Coding",
+        "read": true
+    }
+]
